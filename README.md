@@ -1,5 +1,12 @@
 # Build a Timeline Generator using amCharts and Kintone
 
+---
+Project completed.
+
+[kintone App](https://enoki-lucas.kintone.com/k/2/)
+
+---
+
 ![Banner](./docs/img/banner.png)
 
 Learn how to make an **amCharts Timeline chart** within a **React Project** with a Kintone Database!
